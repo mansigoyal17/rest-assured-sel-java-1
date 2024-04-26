@@ -1,0 +1,152 @@
+13:24:39.654 [main] INFO  api.test.UserTests - *******Creating User************
+13:24:43.260 [main] INFO  api.test.UserTests - *******User created************
+13:24:43.301 [main] INFO  api.test.UserTests - *******Reading User Info************
+13:24:43.515 [main] INFO  api.test.UserTests - ******* User Info Displayed************
+13:24:43.520 [main] INFO  api.test.UserTests - *******Updating User Info************
+13:24:43.689 [main] INFO  api.test.UserTests - *******User Info Updated************
+13:24:43.871 [main] INFO  api.test.UserTests - *******User Info Deleting************
+13:24:44.021 [main] INFO  api.test.UserTests - *******User Deleted************
+14:08:16.821 [main] INFO  api.test.UserTests2 - *******Creating User************
+14:08:21.636 [main] INFO  api.test.UserTests2 - *******User created************
+14:08:21.703 [main] INFO  api.test.UserTests2 - *******Reading User Info************
+14:08:21.963 [main] INFO  api.test.UserTests2 - ******* User Info Displayed************
+14:08:21.973 [main] INFO  api.test.UserTests2 - *******Updating User Info************
+14:08:22.180 [main] INFO  api.test.UserTests2 - *******User Info Updated************
+14:08:22.346 [main] INFO  api.test.UserTests2 - *******User Info Deleting************
+14:08:22.503 [main] INFO  api.test.UserTests2 - *******User Deleted************
+14:13:35.145 [main] INFO  api.test.UserTests - *******Creating User************
+14:13:35.313 [main] INFO  api.test.UserTests - *******User created************
+14:13:35.315 [main] INFO  api.test.UserTests - *******Reading User Info************
+14:13:35.492 [main] INFO  api.test.UserTests - ******* User Info Displayed************
+14:13:35.494 [main] INFO  api.test.UserTests - *******Updating User Info************
+14:13:35.659 [main] INFO  api.test.UserTests - *******User Info Updated************
+14:13:35.826 [main] INFO  api.test.UserTests - *******User Info Deleting************
+14:13:35.973 [main] INFO  api.test.UserTests - *******User Deleted************
+14:17:42.332 [main] INFO  api.test.UserTests - *******Creating User************
+14:17:42.507 [main] INFO  api.test.UserTests - *******User created************
+14:17:42.508 [main] INFO  api.test.UserTests - *******Reading User Info************
+14:17:42.656 [main] INFO  api.test.UserTests - ******* User Info Displayed************
+14:17:42.658 [main] INFO  api.test.UserTests - *******Updating User Info************
+14:17:42.858 [main] INFO  api.test.UserTests - *******User Info Updated************
+14:17:43.038 [main] INFO  api.test.UserTests - *******User Info Deleting************
+14:17:43.213 [main] INFO  api.test.UserTests - *******User Deleted************
+14:25:53.547 [main] INFO  api.test.UserTests - *******Creating User************
+14:25:53.768 [main] INFO  api.test.UserTests - *******User created************
+14:25:53.770 [main] INFO  api.test.UserTests - *******Reading User Info************
+14:25:53.931 [main] INFO  api.test.UserTests - ******* User Info Displayed************
+14:25:53.933 [main] INFO  api.test.UserTests - *******Updating User Info************
+14:25:54.089 [main] INFO  api.test.UserTests - *******User Info Updated************
+14:25:54.256 [main] INFO  api.test.UserTests - *******User Info Deleting************
+14:25:54.405 [main] INFO  api.test.UserTests - *******User Deleted************
+13:40:54.977 [main] INFO  api.test.PetTests - *******Creating Pet************
+13:40:58.714 [main] INFO  api.test.PetTests - *******Pet created************
+13:40:58.749 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+13:40:58.820 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:40:58.867 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+13:46:56.038 [main] INFO  api.test.PetTests - *******Creating Pet************
+13:46:59.472 [main] INFO  api.test.PetTests - *******Pet created************
+13:46:59.507 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+13:47:00.738 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+13:47:00.749 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:47:00.803 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+13:47:02.029 [main] INFO  api.test.PetTests - *******Pet Deleted************
+13:50:21.023 [main] INFO  api.test.PetTests - *******Creating Pet************
+13:50:24.429 [main] INFO  api.test.PetTests - *******Pet created************
+13:50:24.468 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+13:50:24.697 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+13:50:24.702 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:50:24.871 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+13:50:25.036 [main] INFO  api.test.PetTests - *******Pet Deleted************
+13:54:46.257 [main] INFO  api.test.PetTests - *******Creating Pet************
+13:54:50.444 [main] INFO  api.test.PetTests - *******Pet created************
+13:54:50.485 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+13:54:50.752 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+13:54:50.763 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:54:50.825 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+13:54:51.053 [main] INFO  api.test.PetTests - *******Pet Deleted************
+13:59:25.466 [main] INFO  api.test.PetTests - *******Creating Pet************
+13:59:25.498 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+13:59:25.503 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:59:25.509 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:59:25.524 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+14:00:18.070 [main] INFO  api.test.PetTests - *******Creating Pet************
+14:00:21.600 [main] INFO  api.test.PetTests - *******Pet created************
+14:00:21.629 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+14:00:21.861 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+14:00:21.866 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+14:00:22.047 [main] INFO  api.test.PetTests - *******Pet Info Updated************
+14:00:22.218 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+14:00:22.405 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+14:00:22.574 [main] INFO  api.test.PetTests - *******Pet Deleted************
+14:02:35.953 [main] INFO  api.test.PetTests - *******Creating Pet************
+14:02:39.952 [main] INFO  api.test.PetTests - *******Pet created************
+14:02:39.993 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+14:02:40.208 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+14:02:40.214 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+14:02:40.403 [main] INFO  api.test.PetTests - *******Pet Info Updated************
+14:02:40.572 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+14:02:40.714 [main] INFO  api.test.PetTests - *******Pet Deleted************
+14:04:45.012 [main] INFO  api.test.PetTests - *******Creating Pet************
+14:04:48.417 [main] INFO  api.test.PetTests - *******Pet created************
+14:04:48.440 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+14:04:48.719 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+14:04:48.724 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+14:04:48.986 [main] INFO  api.test.PetTests - *******Pet Info Updated************
+14:04:49.172 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+14:04:49.357 [main] INFO  api.test.PetTests - *******Pet Deleted************
+13:06:09.391 [main] INFO  api.test.PetTests - *******Creating Pet************
+13:06:13.132 [main] INFO  api.test.PetTests - *******Pet created************
+13:06:13.217 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+13:06:13.504 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+13:06:13.510 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:06:13.724 [main] INFO  api.test.PetTests - *******Pet Info Updated************
+13:06:13.891 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+13:06:14.043 [main] INFO  api.test.PetTests - *******Pet Deleted************
+13:07:20.919 [main] INFO  api.test.UserTests - *******Creating User************
+13:07:24.388 [main] INFO  api.test.UserTests - *******User created************
+13:07:24.451 [main] INFO  api.test.UserTests - *******Reading User Info************
+13:07:24.652 [main] INFO  api.test.UserTests - ******* User Info Displayed************
+13:07:24.658 [main] INFO  api.test.UserTests - *******Updating User Info************
+13:07:24.833 [main] INFO  api.test.UserTests - *******User Info Updated************
+13:07:24.985 [main] INFO  api.test.UserTests - *******User Info Deleting************
+13:07:25.134 [main] INFO  api.test.UserTests - *******User Deleted************
+13:07:25.213 [main] INFO  api.test.UserTests2 - *******Creating User************
+13:07:25.370 [main] INFO  api.test.UserTests2 - *******User created************
+13:07:25.377 [main] INFO  api.test.UserTests2 - *******Reading User Info************
+13:07:25.522 [main] INFO  api.test.UserTests2 - ******* User Info Displayed************
+13:07:25.526 [main] INFO  api.test.UserTests2 - *******Updating User Info************
+13:07:25.677 [main] INFO  api.test.UserTests2 - *******User Info Updated************
+13:07:25.820 [main] INFO  api.test.UserTests2 - *******User Info Deleting************
+13:07:25.960 [main] INFO  api.test.UserTests2 - *******User Deleted************
+13:07:26.007 [main] INFO  api.test.PetTests - *******Creating Pet************
+13:07:26.188 [main] INFO  api.test.PetTests - *******Pet created************
+13:07:26.200 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+13:07:26.337 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+13:07:26.344 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:07:26.489 [main] INFO  api.test.PetTests - *******Pet Info Updated************
+13:07:26.635 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+13:07:26.774 [main] INFO  api.test.PetTests - *******Pet Deleted************
+13:33:24.015 [main] INFO  api.test.UserTests - *******Creating User************
+13:33:27.576 [main] INFO  api.test.UserTests - *******User created************
+13:33:27.626 [main] INFO  api.test.UserTests - *******Reading User Info************
+13:33:27.854 [main] INFO  api.test.UserTests - ******* User Info Displayed************
+13:33:27.863 [main] INFO  api.test.UserTests - *******Updating User Info************
+13:33:28.017 [main] INFO  api.test.UserTests - *******User Info Updated************
+13:33:28.170 [main] INFO  api.test.UserTests - *******User Info Deleting************
+13:33:28.318 [main] INFO  api.test.UserTests - *******User Deleted************
+13:33:28.402 [main] INFO  api.test.UserTests2 - *******Creating User************
+13:33:28.576 [main] INFO  api.test.UserTests2 - *******User created************
+13:33:28.581 [main] INFO  api.test.UserTests2 - *******Reading User Info************
+13:33:28.748 [main] INFO  api.test.UserTests2 - ******* User Info Displayed************
+13:33:28.752 [main] INFO  api.test.UserTests2 - *******Updating User Info************
+13:33:28.931 [main] INFO  api.test.UserTests2 - *******User Info Updated************
+13:33:29.075 [main] INFO  api.test.UserTests2 - *******User Info Deleting************
+13:33:29.233 [main] INFO  api.test.UserTests2 - *******User Deleted************
+13:33:29.278 [main] INFO  api.test.PetTests - *******Creating Pet************
+13:33:29.465 [main] INFO  api.test.PetTests - *******Pet created************
+13:33:29.473 [main] INFO  api.test.PetTests - *******Reading Pet Info************
+13:33:29.658 [main] INFO  api.test.PetTests - ******* Pet Info Displayed************
+13:33:29.662 [main] INFO  api.test.PetTests - *******Updating Pet Info************
+13:33:29.816 [main] INFO  api.test.PetTests - *******Pet Info Updated************
+13:33:29.980 [main] INFO  api.test.PetTests - *******Pet Info Deleting************
+13:33:30.122 [main] INFO  api.test.PetTests - *******Pet Deleted************
